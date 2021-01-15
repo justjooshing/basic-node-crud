@@ -1,0 +1,38 @@
+[
+  {
+    "id": "1",
+    "name": "Airpods wireless bluetooth headphones",
+    "description": "you put them in your ears",
+    "price": 89.99
+  },
+  {
+    "id": "2",
+    "name": "iPhone 11 Pro 256GB Memory",
+    "description": "Buy a cool iphone",
+    "price": 89.99
+  },
+  {
+    "id": "3",
+    "name": "Bottle of water",
+    "description": "refreshing!",
+    "price": 1.99
+  },
+  {
+    "id": "4",
+    "name": "Anker computer mouse",
+    "description": "great for clicking",
+    "price": 19.99
+  },
+  {
+    "id": "5",
+    "name": "Houseplant",
+    "description": "needs watering often",
+    "price": 39.99
+  },
+  {
+    "id": "n_1yuGwJE1",
+    "title": "Amazing Hat",
+    "description": "Has this description updated?",
+    "price": 14.99
+  }
+]
